@@ -34,5 +34,30 @@ En esta parte colocamos los nombres de los servlets a los que se va a aplicar el
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/309a2b49-f0bd-4042-a369-1439d7c17a4c)
 
+**OJO: Si 2 filtros apuntan hacia un mismo servlet entonces la prioridad la tiene el mapeo por URL y luego por nombre**
+
+## JAVA INTERFACES
+Una interfase es un conjunto de métodos y clases abstractas
+
+Creamos una clase Interface:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/b9c98c62-b20b-4472-9ed8-a7d2bc333145)
+
+Implementamos la interfase en la clase Estudiante:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/74ce0ee6-3591-4b4d-97b3-0ab27e1847a0)
+
+**Si la clase hereda o "implementa interfase" entonces esa clase se "vuelve" esa interfase**
+
+Por eso, **mejor tomamos la opción de agregar una "clase intermedia"** que "implementa la interfase" y como esta se "convertirá" en la interfase, entonces ya podemos usar el método que recibia como parámetro la interfase.
+
+## Clase Anónima
+
+
+
+
+
+
+
 
 

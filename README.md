@@ -81,7 +81,36 @@ Lo implementamos así (en la parte de abajo es cómo se implementaría con lambd
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/bcd8a77f-2b6e-4acd-b345-c8e58e7d563c)
 
+Si la clase anónima tiene 2 o más lineas de código, encerramos entre llaves:
 
-**Solu Stuardo problema con clase Estudiante**
+![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/846bf20a-12fe-4952-91ee-66430210cf36)
+
+**Solu Stuardo problema con clase Estudiante (ERROR)**
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/97f23dbf-af3b-459a-a6c5-ef902d9a66cb)
+
+## Lambda
+**Anónimo** porque no tiene nombre como un método normal
+**Función** lista de parámetros, cuerpo, tipo de retorno, excepciones (como un método normal)
+
+
+## Practica
+
+Creamos interfazFinal;
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/bf9f3c1b-da6b-493b-b6fc-2e87ab4476c8)
+
+Asignamos método del estudiante:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/31a033df-2111-47ab-a904-03592a0bee00)
+
+Implementamos el lambda: (Un ejemplo est arriba)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/14e01ff4-dd7a-4f04-a010-ea0d7d53ed39)
+
+Si pongo con llaves el rerturn del lambda no es implícito, **COLOCAMOS return** y un ";" al final
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/164b5fb1-23e9-4cae-91bb-d6ee9b28b7bf)
+
+
+
 

@@ -19,3 +19,20 @@ Implementamos el método doFilter (**debido a que estamos heredando de la clase 
 OJO: FilterChain sirve para poder concatenar con otros filtros (**Sirve para avisar qué filtro es anterior o posterior en el que estamos**)
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/56b650d6-d16e-47d6-a538-8d44ab701c02)
+
+Casteamos en Http Servlet: (porque doFilter no tiene Http)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/98492cfc-a5d6-4d08-a1fa-2ff939050c24)
+
+Creamos la lógica del filtro usando **filterChain siempre lleva al siguiente (sea filtro o no)**
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/0302610a-b7d1-454f-b99c-76261082733f)
+
+**Escoger Servlets**: (filtro 1 es el filtro 2 solo que ya estaba trabajado por el Profe)
+
+En esta parte colocamos los nombres de los servlets a los que se va a aplicar el filtro
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/309a2b49-f0bd-4042-a369-1439d7c17a4c)
+
+
+

@@ -51,13 +51,37 @@ Implementamos la interfase en la clase Estudiante:
 
 Por eso, **mejor tomamos la opción de agregar una "clase intermedia"** que "implementa la interfase" y como esta se "convertirá" en la interfase, entonces ya podemos usar el método que recibia como parámetro la interfase.
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/6ff0fb88-a761-41ea-951f-204d7cfe966c)
+
+
 ## Clase Anónima
+Son clases que **se crean para ser usadas solo 1 vez**
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/6e2105d4-a2cc-4250-a231-583d5f47e38a)
+
+Las clases anónimas es una clase **sin nombre** y que hereda de la clase abstracta que "queremos instanciar"
+
+**Interfaz con 1 único método = Interfaz funcional = Lambda**
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/337bdb1f-b329-495a-8370-1b592389c017)
+
+Pero si tiene 1 argumento el método del interfase:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/32cb5abd-d458-4b88-8968-e3cb54ae9647)
+
+Lo implementamos así (en la parte de abajo es cómo se implementaría con lambda):
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/93a4e26d-c55b-4230-9cf0-2a3ab5ddf04e)
+
+Ahora con 2 argumentos en el método del interfase:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/3f2eaf16-3a9b-488c-8854-ce3104ccbb25)
+
+Lo implementamos así (en la parte de abajo es cómo se implementaría con lambda):
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/bcd8a77f-2b6e-4acd-b345-c8e58e7d563c)
 
 
-
-
-
-
-
-
+**Solu Stuardo problema con clase Estudiante**
+![image](https://github.com/SergioABS0813/CLASE-IWEB-14/assets/134556600/97f23dbf-af3b-459a-a6c5-ef902d9a66cb)
 
